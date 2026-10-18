@@ -1,0 +1,22 @@
+{
+  "model": "svm_rbf",
+  "accuracy": 0.9766666666666667,
+  "precision_macro": 0.9764991944645827,
+  "recall_macro": 0.97644701155471,
+  "f1_macro": 0.9764510721728769,
+  "best_params": {
+    "C": 5.0,
+    "gamma": "scale"
+  },
+  "cv_accuracy_mean": 0.9613333333333333,
+  "cv_accuracy_std": 0.0018408935028645685,
+  "search_seconds": 22.646501399984118,
+  "fit_seconds": 34.11957969999639,
+  "validation_predict_seconds": 18.429014699999243,
+  "model_bytes": 3436184,
+  "model_sha256": "f643d9afb225d546e6f36fb09617348f1a6abd7af7ac9ee70d9c4b832ae0a6b8",
+  "warnings": [],
+  "test_samples": 6300,
+  "test_predict_seconds": 17.546449900022708,
+  "ms_per_image": 2.785150777781382
+}

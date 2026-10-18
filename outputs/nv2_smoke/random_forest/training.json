@@ -1,0 +1,19 @@
+{
+  "model": "random_forest",
+  "accuracy": 0.8133333333333334,
+  "precision_macro": 0.8332142857142857,
+  "recall_macro": 0.806547619047619,
+  "f1_macro": 0.7945104182023687,
+  "best_params": {
+    "max_depth": null,
+    "max_features": "sqrt"
+  },
+  "cv_accuracy_mean": 0.8033333333333333,
+  "cv_accuracy_std": 0.009428090415820642,
+  "search_seconds": 2.9876303000201005,
+  "fit_seconds": 0.2193695000023581,
+  "validation_predict_seconds": 0.008154000010108575,
+  "model_bytes": 531916,
+  "model_sha256": "773f0399850b897b512fcfc20a6ac575a525921d8d6045baac957086eb5190c0",
+  "warnings": []
+}

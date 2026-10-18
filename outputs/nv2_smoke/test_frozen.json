@@ -1,0 +1,15 @@
+{
+  "models": {
+    "logistic_regression": "e78bcb474ea42d3fd5cdcfc4d4b8fbda4c327dd89ffae3133a6da5c520cdc63a",
+    "knn": "e71f8c309577a20c80472694cbdb72a3458f55ac1f1b9fb741e6f2063834bda0",
+    "svm_linear": "725ec5c23f63879af0b5ffa51d8599c81d80b2ccf09ea175262c2a6e49279631",
+    "svm_rbf": "01b332f65e53355720012e102b41c62bad5c91cfa9b84c0b57cba5e81cb85bd8",
+    "random_forest": "773f0399850b897b512fcfc20a6ac575a525921d8d6045baac957086eb5190c0"
+  },
+  "shared_data_sha256": "3dfcae8d9d6fa7c3c784d1bf4bfe71e7ec6b2ce6fbdc49a63ff3f2331226729f",
+  "selection": {
+    "selected_on_validation": "knn",
+    "rule": "Maximum validation accuracy; order in nv2_models breaks ties",
+    "model_count": 5
+  }
+}

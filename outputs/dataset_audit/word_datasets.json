@@ -1,0 +1,202 @@
+{
+  "iam": {
+    "image_files": 115320,
+    "label_rows": 44564,
+    "malformed_rows": 1,
+    "malformed_examples": [
+      [
+        "e07-072-09-"
+      ]
+    ],
+    "status_counts": {
+      "ok": 38305,
+      "err": 6259
+    },
+    "missing_images": 0,
+    "ok_with_image": 38305,
+    "single_ascii_digit_rows": 51,
+    "examples": [
+      {
+        "id": "a01-000u-00-00",
+        "label": "A",
+        "size": [
+          27,
+          51
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-00.png"
+      },
+      {
+        "id": "a01-000u-00-01",
+        "label": "MOVE",
+        "size": [
+          213,
+          48
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-01.png"
+      },
+      {
+        "id": "a01-000u-00-02",
+        "label": "to",
+        "size": [
+          70,
+          50
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-02.png"
+      },
+      {
+        "id": "a01-000u-00-03",
+        "label": "stop",
+        "size": [
+          166,
+          78
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-03.png"
+      },
+      {
+        "id": "a01-000u-00-04",
+        "label": "Mr.",
+        "size": [
+          126,
+          61
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-04.png"
+      },
+      {
+        "id": "a01-000u-00-05",
+        "label": "Gaitskell",
+        "size": [
+          382,
+          73
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-05.png"
+      },
+      {
+        "id": "a01-000u-00-06",
+        "label": "from",
+        "size": [
+          173,
+          72
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-00-06.png"
+      },
+      {
+        "id": "a01-000u-01-00",
+        "label": "nominating",
+        "size": [
+          441,
+          100
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-01-00.png"
+      },
+      {
+        "id": "a01-000u-01-01",
+        "label": "any",
+        "size": [
+          147,
+          79
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-01-01.png"
+      },
+      {
+        "id": "a01-000u-01-02",
+        "label": "more",
+        "size": [
+          208,
+          42
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-01-02.png"
+      },
+      {
+        "id": "a01-000u-01-03",
+        "label": "Labour",
+        "size": [
+          294,
+          59
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-01-03.png"
+      },
+      {
+        "id": "a01-000u-01-04",
+        "label": "life",
+        "size": [
+          174,
+          63
+        ],
+        "path": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\IAM\\iam_words\\words\\a01\\a01-000u\\a01-000u-01-04.png"
+      }
+    ]
+  },
+  "vietnamese": {
+    "rows": 110746,
+    "unique_labels": 3511,
+    "blank_rows": 110747,
+    "malformed_rows": 0,
+    "empty_labels": 0,
+    "empty_images": 0,
+    "single_ascii_digit_rows": 928,
+    "sampled_pixel_rows": 100,
+    "sample_pixel_lengths": {
+      "4096": 100
+    },
+    "sample_pixel_min": -9.0,
+    "sample_pixel_max": 0.0,
+    "examples": [
+      {
+        "label": "Bản",
+        "values": 4096,
+        "min": -5.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "chất",
+        "values": 4096,
+        "min": -6.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "của",
+        "values": 4096,
+        "min": -6.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "thành",
+        "values": 4096,
+        "min": -4.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "công",
+        "values": 4096,
+        "min": -5.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "Đã",
+        "values": 4096,
+        "min": -4.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "bao",
+        "values": 4096,
+        "min": -6.0,
+        "max": 0.0,
+        "finite": true
+      },
+      {
+        "label": "mà",
+        "values": 4096,
+        "min": -5.0,
+        "max": 0.0,
+        "finite": true
+      }
+    ]
+  }
+}

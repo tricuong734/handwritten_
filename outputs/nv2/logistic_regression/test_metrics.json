@@ -1,0 +1,21 @@
+{
+  "model": "logistic_regression",
+  "accuracy": 0.9142857142857143,
+  "precision_macro": 0.913354355170703,
+  "recall_macro": 0.9129977080624864,
+  "f1_macro": 0.9130680092548069,
+  "best_params": {
+    "C": 0.1
+  },
+  "cv_accuracy_mean": 0.8993333333333333,
+  "cv_accuracy_std": 0.003274480450731418,
+  "search_seconds": 5.027472199988551,
+  "fit_seconds": 3.685187600000063,
+  "validation_predict_seconds": 0.003987800009781495,
+  "model_bytes": 27539,
+  "model_sha256": "1acbba5bc117bb890a819f446a994d1fb10068b3e40716b8dd9a23403535d85a",
+  "warnings": [],
+  "test_samples": 6300,
+  "test_predict_seconds": 0.0037918000016361475,
+  "ms_per_image": 0.0006018730161327218
+}

@@ -1,0 +1,16 @@
+{
+  "source_csv": "D:\\VSC\\DoAn\\handwritten-digit-classification-main\\data\\digit-recognizer\\train.csv",
+  "source_sha256": "b35cc952c291f03d995f48721373e69454f689e299d724bd9a5927bdabddfeed",
+  "seed": 42,
+  "folds": 3,
+  "threads": 2,
+  "tuning_samples": 6000,
+  "train_samples": 29400,
+  "validation_samples": 6300,
+  "test_samples": 6300,
+  "smoke_test": false,
+  "preprocessing": "float32 pixel / 255; no augmentation",
+  "python": "3.12.14",
+  "sklearn": "1.9.1",
+  "numpy": "2.5.3"
+}

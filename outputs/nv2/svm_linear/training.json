@@ -1,0 +1,18 @@
+{
+  "model": "svm_linear",
+  "accuracy": 0.9380952380952381,
+  "precision_macro": 0.9373821873133256,
+  "recall_macro": 0.9371873036630515,
+  "f1_macro": 0.9372320328362811,
+  "best_params": {
+    "C": 0.1
+  },
+  "cv_accuracy_mean": 0.9171666666666667,
+  "cv_accuracy_std": 0.0020548046676563273,
+  "search_seconds": 4.248195099993609,
+  "fit_seconds": 25.62218030000804,
+  "validation_predict_seconds": 7.73078459998942,
+  "model_bytes": 2706339,
+  "model_sha256": "8b2961fada3a2afd73ceb611961ddf5e0308ab5a6d3f865b47ec0ab83913856d",
+  "warnings": []
+}

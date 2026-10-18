@@ -1,0 +1,22 @@
+{
+  "model": "knn",
+  "accuracy": 0.9666666666666667,
+  "precision_macro": 0.9670100655936664,
+  "recall_macro": 0.9660973790416507,
+  "f1_macro": 0.9662978354377862,
+  "best_params": {
+    "n_neighbors": 3,
+    "weights": "distance"
+  },
+  "cv_accuracy_mean": 0.9330000000000002,
+  "cv_accuracy_std": 0.00463680924774784,
+  "search_seconds": 3.3522753000142984,
+  "fit_seconds": 0.00799620000179857,
+  "validation_predict_seconds": 3.8540176000096835,
+  "model_bytes": 8593472,
+  "model_sha256": "3560386b61c6a6dccf3e9218c249355a02694aee55d35ba319962848c8c9f904",
+  "warnings": [],
+  "test_samples": 6300,
+  "test_predict_seconds": 3.749901500006672,
+  "ms_per_image": 0.5952224603185193
+}

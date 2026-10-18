@@ -1,0 +1,5 @@
+{
+  "selected_on_validation": "knn",
+  "rule": "Maximum validation accuracy; order in nv2_models breaks ties",
+  "model_count": 5
+}

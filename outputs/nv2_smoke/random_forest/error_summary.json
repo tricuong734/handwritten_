@@ -1,0 +1,30 @@
+{
+  "errors": 10,
+  "top_confusions": [
+    {
+      "true": 9,
+      "predicted": 7,
+      "count": 2
+    },
+    {
+      "true": 8,
+      "predicted": 9,
+      "count": 1
+    },
+    {
+      "true": 8,
+      "predicted": 2,
+      "count": 1
+    },
+    {
+      "true": 5,
+      "predicted": 6,
+      "count": 1
+    },
+    {
+      "true": 5,
+      "predicted": 4,
+      "count": 1
+    }
+  ]
+}
