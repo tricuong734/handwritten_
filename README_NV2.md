@@ -1,5 +1,4 @@
-# NV2 — Huấn luyện, đánh giá và PowerPoint
-
+Huấn luyện, đánh giá 
 Phạm vi theo bản phân công chính: Logistic Regression, KNN, SVM linear/RBF,
 Random Forest; GridSearchCV; đo thời gian; đánh giá từng lớp; phân tích ảnh sai;
 lưu model; tổng hợp slide thực nghiệm. Không viết phần lý thuyết.
