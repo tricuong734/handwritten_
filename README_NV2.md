@@ -1,4 +1,4 @@
-Huấn luyện, đánh giá 
+
 Phạm vi theo bản phân công chính: Logistic Regression, KNN, SVM linear/RBF,
 Random Forest; GridSearchCV; đo thời gian; đánh giá từng lớp; phân tích ảnh sai;
 lưu model; tổng hợp slide thực nghiệm. Không viết phần lý thuyết.
@@ -121,7 +121,6 @@ Metadata JSON do C cung cấp gồm:
 Lệnh kiểm tra đúng row_id, căn chỉnh thứ tự và xuất cùng bộ chỉ số/ảnh lỗi, rồi cập nhật bảng so sánh.
 Chỉ tiếp nhận một lần kết quả CNN trong run này. Model CNN và mã train vẫn do NV3 bàn giao cho A.
 
-## PowerPoint
 
 Slide thực nghiệm đặt trong `outputs/nv2/slides/`. Nội dung lấy từ dữ liệu và kết quả thật,
 không chứa lý thuyết. Phần CNN và demo toàn nhóm còn phụ thuộc bàn giao từ A/C.
